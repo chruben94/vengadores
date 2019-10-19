@@ -1,42 +1,37 @@
 body {
     background-color: black;
+    text-align: center;
 }
 
 .container {
     border: solid;
-    color: black;
+    color: white;
     margin: auto;
     max-width: 1200px;
+    height: 700px;
     text-align: center;
     background-image: url("../images/background7.jpg");
     background-position: center;
     
 }
+
 h1 {
     color: white;
     font-size: 70px;
-    width: 750px;
-    text-align: center;
-    padding-top: 30px;
-    padding-bottom: 30px;
+    width: 850px;
     margin: auto;
-    border: double; 
-    border-color: white;
-    margin-bottom: 10px;
-    margin-top: 10px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+
     
 }
+
 #wrapper {
     border: solid;
-    max-width: 1200px;
-    height: 530px;
-
-}
-.captainAmerica{
+    color: greenyellow;
+    max-width: 800px;
+    height: 490px;
+    margin: auto;
     
-}
-.pics {
-    width: 150px;
-    height: 250px;
 
 }
