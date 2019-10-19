@@ -1,0 +1,37 @@
+body {
+    background-color: black;
+}
+
+.container {
+    border: solid;
+    color: black;
+    margin: auto;
+    max-width: 1000px;
+    text-align: center;
+    background-image: url("../images/background7.jpg");
+    background-position: center;
+    
+}
+h1 {
+    color: white;
+    font-size: 70px;
+    width: 750px;
+    text-align: center;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    margin: auto;
+    border: double; 
+    border-color: white;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    
+}
+#wrapper {
+    border: solid;
+    max-width: 1000px;
+    height: 530px;
+
+}
+.captainAmerica{
+    
+}
